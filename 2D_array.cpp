@@ -112,11 +112,12 @@ int main(){
     else{
         cout << "Not found" << endl;
     }
-*/
+
     cout << "Sum of rows : " << endl;
     rowSum(a,3,3);
     cout << "Sum of Columns : " << endl;
     colSum(a,3,3);
     int large = largestRowSum(a,3,3);
     cout << "largest row sum = " << large << endl;
+*/
 }
